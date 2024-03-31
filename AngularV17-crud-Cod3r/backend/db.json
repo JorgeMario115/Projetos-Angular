@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Caneta Bic Preta",
+      "price": "589"
+    },
+    {
+      "id": "2",
+      "name": "Notebook Mac Pro",
+      "price": "12000.00"
+    },
+    {
+      "id": "fb06",
+      "name": "Samsung S20+",
+      "price": "5000.89"
+    },
+    {
+      "id": "c2d3",
+      "name": "Bikini Valentine",
+      "price": "100.00"
+    },
+    {
+      "id": "497b",
+      "name": "Amendoin Doin Bahubali",
+      "price": "10.00"
+    },
+    {
+      "id": "b518",
+      "name": "Bigodinha Sapatinha calçados",
+      "price": "89.00"
+    },
+    {
+      "id": "589d",
+      "name": "Lelo Caramelo",
+      "price": "8"
+    }
+  ]
+}
